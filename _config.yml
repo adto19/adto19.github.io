@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Hijrah Syahputra
+title:            andto
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://hijrah21.github.io
+url:              http://adto19.github.com
 
 
 # Jekyll configuration
@@ -27,9 +27,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Hijrah Syahputra
+  name: andrianto
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "berbagi kebaikan."
   email: 
   disqus-shortname: 
   twitter: #username
