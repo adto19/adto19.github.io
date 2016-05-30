@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: my profile
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -9,10 +9,12 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-## Biodata
-Nama : Hijrah Syahputra<br>
-NIM : 11353102831<br>
-Sistem Informasi Fakultas Sains dan Teknologi<br>
+## sekilas tentang saya:
 
-[sif uin suska](http://sif.uin-suska.ac.id/)<br>
-[uin suska](http://uin-suska.ac.id/)<br>
+* nama: andrianto
+* tempat tgl lahir: pariaman, 19 juli 1995
+* asal: saya lahir di pariaman, namun besar di duriu - riau
+* program studi [sistem informasi](http://sif.uin-suska.ac.id/)
+* kelas: SIF 2013
+* fakultas sains dan teknologi
+* [universitas islam sultan syarif kasim riau](http://uin-suska.ac.id/)
